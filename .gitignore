@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+
+# Never commit local state — it contains your mail metadata and correspondents.
+.postclerk/
+*.tmp
